@@ -40,7 +40,7 @@ void loop() {
     
       } else {                                                                         
     
-        if (event.temperature > 20){                                                   
+        if (event.temperature > 26){                                                   
     
           
           // Aciona o motor
